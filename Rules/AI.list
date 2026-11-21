@@ -39,10 +39,11 @@ DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # >>> Google Gemini / AI Studio / Labs
-DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,gemini.gstatic.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,bard.google.com
@@ -57,6 +58,7 @@ DOMAIN,antigravity-unleash.goog
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,ai.google.dev
+DOMAIN,play.google.com
 DOMAIN,aicode.googleapis.com
 DOMAIN,aida.googleapis.com
 DOMAIN,aisandbox-pa.googleapis.com
