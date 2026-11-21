@@ -39,8 +39,7 @@ DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # >>> Google Gemini / AI Studio / Labs
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,gemini.google
+DOMAIN-KEYWORD,gemini
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
